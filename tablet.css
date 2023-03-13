@@ -1,0 +1,87 @@
+@media (max-width:992px) and (min-width:769px){
+   
+    .pc-nav{
+        display: none;
+    }
+
+    .tablet-phone-nav{
+        display: block;
+    }
+
+    .pc-tablet-info{
+        display: block;
+    }
+
+    .phone-info{
+        display: none;
+    }
+    
+
+    button.navbar-toggler {
+        color: #fff;
+        font-size: 100%;
+        width: auto;
+        height: auto;
+    }
+/*
+    .recommendation-card1{
+        height: 0;
+        width: 1500px;
+        padding-bottom: 250px;
+        transform: translateX(-23%);
+    }
+    
+    .recommendation-card2{
+        transform: scale(0.53);
+        height: 0;
+        width: 1500px;
+    
+    }
+*/
+
+    .rightslide {
+        left: 92%;
+    }
+
+    /*search*/
+    .search {
+        display: block;
+        justify-content: center;
+        /*
+        flex-wrap: wrap;
+        
+        justify-content: center;
+    */
+    }
+    /*
+    .earch-container {
+        width: 0;
+        height: 0;
+        padding-bottom: 500px;
+        transform: translateX(50%);
+        
+    }
+    .search {
+        transform: scale(0.48);
+        height: 0;
+        width: 0;
+    }
+*/
+
+.float{
+    margin-right: 20px;
+    height: 1000px;
+}
+    /*info*/
+    .icon-arrowRight{
+        padding-left: 180px;
+    }
+
+    /*fotter*/
+    .container-fluid {
+        text-align: left;
+    }
+    
+}
+
+
